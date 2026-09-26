@@ -8,7 +8,9 @@ Legacy migration is repetitive, cross-file and risky. Engineers must manually ma
 ReForge uses IBM Bob to understand, plan, refactor, validate and document a controlled Flask → FastAPI migration. Bob reads the entire legacy codebase, identifies dead code and defects, produces a binding migration contract, executes each phase against that contract, and generates a full audit trail — without human prompting between steps.
 
 ## Demo
-<!-- To be added after video editing -->
+## Demo
+* **Live Evidence Dashboard:** [ReForge Streamlit Dashboard](https://reforge-workspace-6f22rpobxnnfjzqimvgwwe.streamlit.app/)
+* **Video Walkthrough:**
 
 ## Architecture
 
