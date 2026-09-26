@@ -10,7 +10,7 @@ ReForge uses IBM Bob to understand, plan, refactor, validate and document a cont
 ## Demo
 ## Demo
 * **Live Evidence Dashboard:** [ReForge Streamlit Dashboard](https://reforge-workspace-6f22rpobxnnfjzqimvgwwe.streamlit.app/)
-* **Video Walkthrough:**
+* **Video Walkthrough:** https://drive.google.com/file/d/1SUitHyVKZm3cGRfqmmzkj7MFhTjMa64f/view?usp=drive_link
 
 ## Architecture
 
